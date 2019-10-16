@@ -1,6 +1,9 @@
 //This is new Git demo
 
 class HelloGit{
+	void myMethod(){
+		syso("My Method");
+	}
 	public static void main(String args[]){
 
 		System.out.println("This will print....Welcome to git****!!!");
