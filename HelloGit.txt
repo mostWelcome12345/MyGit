@@ -1,13 +1,17 @@
 //This is new Git demo
 
 class HelloGit{
-	static String myMethod(){
-		return "My Method";
+
+	static String myMethod(String str){
+		return str;
+
+	public static void myMethod(String str){
+		System.out.println("My Method");
 	}
 	public static void main(String args[]){
 		myMethod();
 		System.out.println("This will print....Welcome to git****!!!");
-		
+
 	}
 }
 
