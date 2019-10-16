@@ -1,8 +1,8 @@
-This is new Git demo
+//This is new Git demo
 
 class HelloGit{
 	public static void main(String args[]){
-		sysout("Welcome to git");
+		System.out.println("Welcome to git");
 	}
 }
 
